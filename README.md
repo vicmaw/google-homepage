@@ -1,2 +1,1 @@
-
-https://github.com/vicmaw/google-homepage.git
+https://vicmaw.github.io/google-homepage/
